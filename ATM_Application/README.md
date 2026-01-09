@@ -1,87 +1,88 @@
 ATM Application – Manual QA Project
-Project Overview
+**Project Overview**
 
 This project represents a manual QA testing practice for an ATM (Automated Teller Machine) desktop application.
+
 The goal of the testing was to verify core ATM functionalities, identify functional and UI issues, and document them using professional QA documentation.
 
-SCOPE OF TESTING
+**SCOPE OF TESTING**
 
-The following functionalities were tested:
+#The following functionalities were tested:
 
-Card insertion and PIN validation
+-Card insertion and PIN validation
 
-Cash withdrawal
+-Cash withdrawal
 
-Balance inquiry
+-Balance inquiry
 
-Invalid input handling (wrong PIN, insufficient funds, invalid amounts)
+-Invalid input handling (wrong PIN, insufficient funds, invalid amounts)
 
-Session flow (cancel, timeout, logout)
+-Session flow (cancel, timeout, logout)
 
-Error messages and validations
+-Error messages and validations
 
-Types of Testing Performed
+-Types of Testing Performed
 
-Manual Testing
+-Manual Testing
 
-Functional Testing
+-Functional Testing
 
-UI Testing
+-UI Testing
 
-Negative Testing
+-Negative Testing
 
-Validation Testing
+-Validation Testing
 
-Bugs Identified
+-Bugs Identified
 
-During testing, multiple issues were identified, including:
+-During testing, multiple issues were identified, including:
 
-Missing validation messages
+-Missing validation messages
 
-Incorrect handling of invalid inputs
+-Incorrect handling of invalid inputs
 
-Logical errors in transaction flow
+-Logical errors in transaction flow
 
-UI inconsistencies
+-UI inconsistencies
 
-All identified issues are documented in detailed Bug Reports with:
+**All identified issues are documented in detailed Bug Reports with**:
 
-Steps to reproduce
+-Steps to reproduce
 
-Expected result
+-Expected result
 
-Actual result
+-Actual result
 
-Priority and Severity
+-Priority and Severity
 
-TEST DOCUMENTATION
+**TEST DOCUMENTATION**
 
-This project contains the following documentation:
+-This project contains the following documentation:
 
-Test Cases (Excel)
+-Test Cases (Excel)
 
-Structured test scenarios
+-Structured test scenarios
 
-Preconditions
+-Preconditions
 
-Expected results
+-Expected results
 
-Bug Reports (Excel)
+-Bug Reports (Excel)
 
-Clear and reproducible bug descriptions
+-Clear and reproducible bug descriptions
 
-Priority & Severity classification
+-Priority & Severity classification
 
-TOOLS USED
+**TOOLS USED**
 
-Microsoft Excel – Test cases & bug reports
+-Microsoft Excel – Test cases & bug reports
 
-Manual testing techniques
+-Manual testing techniques
 
-Desktop application testing approach
+-Desktop application testing approach
 
-NOTES
+**NOTES**
 
-This project was created as part of my QA learning and practice portfolio, with the focus on real-world testing scenarios and professional documentation standards.
+-This project was created as part of my QA learning and practice portfolio, with the focus on real-world testing scenarios and professional documentation standards.
 
- You can find all test cases and bug reports inside this project folder.
+ -You can find all test cases and bug reports inside this project folder.
